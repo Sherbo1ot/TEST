@@ -12,14 +12,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: rgb(193, 209, 255);
 
-}
-
-.inputs {
-  min-width: 100%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .inputs #inputText {
